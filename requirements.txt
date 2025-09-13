@@ -1,8 +1,9 @@
 streamlit==1.38.0
-pandas==2.2.2
 numpy==1.26.4
+scipy==1.13.1
+pandas==2.2.2
 scikit-learn==1.5.2
+gensim==4.3.2
 requests==2.32.3
 joblib==1.4.2
 python-dateutil==2.9.0.post0
-gensim==4.3.2
