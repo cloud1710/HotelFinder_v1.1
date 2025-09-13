@@ -1,10 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Trang 5: Khách sạn tương tự (TF-IDF) - Bản chỉnh sửa
-Bổ sung:
-  - Hiển thị đầy đủ khối "Khách sạn gốc" (mô tả, expander, metrics, Insight, nút Similar)
-  - Label expander Insight đổi thành: "Muốn biết thêm chi tết?, Hãy click vào đây"
-  - Nút '🔁 Tìm khách sạn tương tự' nằm dưới phần Insight (cả khách sạn gốc & khách sạn tương tự)
+*
 """
 import json
 import os
