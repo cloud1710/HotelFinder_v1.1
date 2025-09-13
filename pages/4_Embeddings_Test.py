@@ -1,14 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Trang 4 (đã chỉnh sửa mở rộng):
-  - Insight hiển thị TRƯỚC, nút '🔁 Tìm khách sạn tương tự' hiển thị SAU.
-  - Expander Insight: 'Muốn biết thêm chi tết?, Hãy click vào đây'
-  - Thêm tuỳ chọn: Số gợi ý (Top K) động + Bật lọc số sao giống Trang 5.
-  - Top K & lọc sao áp dụng tức thì trên tập kết quả đã tìm (không cần bấm lại nút Tìm).
-
-Ghi chú:
-  - Sau khi bấm Tìm, toàn bộ danh sách doc_id được sắp xếp theo similarity và lưu lại.
-  - Thay đổi slider Top K hoặc khoảng sao chỉ lọc/cắt danh sách này.
+*
 """
 import json
 import os
