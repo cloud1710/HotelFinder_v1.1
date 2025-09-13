@@ -1,0 +1,14 @@
+{
+  "model_version": "v1",
+  "index_type": "SparseMatrixSimilarity",
+  "num_docs": 700,
+  "num_features": 1740,
+  "gensim_version": "4.3.3",
+  "build_params": {
+    "filter_extremes": {
+      "no_below": null,
+      "no_above": null,
+      "keep_n": null
+    }
+  }
+}
